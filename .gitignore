@@ -223,3 +223,6 @@ devenv.lock
 
 # Claude Code
 .claude/
+
+# Advent-of-code
+input/
